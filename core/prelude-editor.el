@@ -102,7 +102,7 @@ Will only occur if prelude-whitespace is also enabled."
                                          try-complete-lisp-symbol))
 
 ;; smart pairing for all
-(electric-pair-mode t)
+;; (electric-pair-mode t)
 
 ;; diminish keeps the modeline tidy
 (require 'diminish)
